@@ -1,0 +1,19 @@
+A simple Sign Up and Sign In functionality.
+
+Frontend -  ReactJs.
+Backend - Node.js, Express, PostgreSQL server.
+
+Following things are remaining to be added,
+1.Edit Profile
+2.Validations
+3.Tests
+4.Applying responsive css
+5.Better UI with better css.
+
+
+
+
+
+
+
+
