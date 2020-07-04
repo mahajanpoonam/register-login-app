@@ -44,12 +44,12 @@ const signIn = (request, response) => {
     }
     if (results.rowCount == 1) {
         response.status(200).send({
-        message: "Signed in successfully."
+        message: "success"
       })
     }
     else {
       response.status(200).send({
-        message: "Email or password is incorrect."
+        message: "incorrect_username_pwd."
       })
     }
   })
